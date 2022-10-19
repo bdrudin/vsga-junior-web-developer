@@ -9,6 +9,6 @@ Tanggal pelatihan 27 September - 3 Oktober 2022
 - Tugas  
    Daftar tugas yang sudah dikerjakan berdasarkan materi yang diberikan.
 
-## Ujian Sertifikasi
+## Ujian Sertifikasi Junior Web Developer
 
-Oktober 2022.
+20-24 Oktober 2022.
